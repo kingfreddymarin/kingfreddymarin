@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @kingfreddymarin
+- 👀 I’m interested in Front-end development, Machine learning and Artificial intelligence
+- 🌱 I’m currently learning Front-end development
+- 💞️ I’m looking to collaborate on any work i could
+- 📫 How to reach me? Send me an email @ freddymarin.jpg@gmail.com
